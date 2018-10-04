@@ -1,1 +1,6 @@
-Test
+#Installieren
+
+```
+~# sudo apt install ruby
+
+```
